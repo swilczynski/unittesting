@@ -1,0 +1,4 @@
+"voter_id","region_id","name","ssn","allowed"
+1,1,"Sebastian",003123344,0
+2,2,"Jon",005234433,1
+3,2,"Mark",006345522,1
